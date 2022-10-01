@@ -1,6 +1,7 @@
 dataset/*
 !dataset/*.csv
 !dataset/*.json
+runs_clf/*
 
 # Editors
 .vscode/
